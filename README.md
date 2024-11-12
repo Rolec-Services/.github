@@ -1,3 +1,0 @@
-# Rolec Services
-
-Hello World!
