@@ -1,6 +1,6 @@
 # 🏢 Rolec Services Ltd
 
-Welcome to the official GitHub organization for [Rolec Services Ltd](https://www.rolecserv.co.uk) — one of the UK’s leading specialists in the design, manufacture, and supply of electric vehicle (EV) charging points, outdoor electrical installations, and smart technology.
+Welcome to the official GitHub organization for [Rolec Services Ltd](https://www.rolecserv.com) — one of the UK’s leading specialists in the design, manufacture, and supply of electric vehicle (EV) charging points, outdoor electrical installations, and smart technology.
 
 ## 🔌 What We Do
 We provide innovative and scalable solutions for:
@@ -19,6 +19,6 @@ We provide innovative and scalable solutions for:
 
 ## 📫 Get in Touch
 
-For general enquiries or more information about our products and services, please visit [rolecserv.co.uk](https://www.rolecserv.co.uk) or [contact us](https://www.rolecserv.com/contact).
+For general enquiries or more information about our products and services, please visit [rolecserv.co.uk](https://www.rolecserv.com) or [contact us](https://www.rolecserv.com/contact).
 
 ---
